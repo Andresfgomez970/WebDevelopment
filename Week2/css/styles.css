@@ -1,0 +1,33 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    /* Add a line to at the end of content */
+    border-bottom: 1px ridge;
+    min-height: 400px; 
+}
+
+.footer {
+ background-color: #D1C4E9;
+ margin: 0px auto;
+ padding: 30px 0px 30px 0px;
+}
+
+/* This will permit us to add additional content here for the already defined class */
+.jumbotron {
+    padding: 70px 30px;
+    margin: 0px auto;
+    background-color: #9575CD;
+    color: floralwhite;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f;
+    padding: 0px 0px 15px 0px;
+}
